@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El usuario en el momento de procesar su compra puede calcular el envío a través de la opción habilitada, al darle clic a la opción “Calcular Envio” debe de seleccionar en el primer menú desplegable el nombre del departamento y seguido seleccionar el municipio en el otro menú desplegable habilitado, inmediatamente se habilita el botón de calcular y al darle clic en los datos de la compra se adiciona el valor cobrado por el envió.</description>
+   <name>Calcular envío del pedido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad71dd04-a7f5-438e-9364-e85ef850c0bf</testCaseGuid>
+</TestCaseEntity>

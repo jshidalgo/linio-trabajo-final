@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El correo electrnico o la contrasea son_330e50</name>
+   <tag></tag>
+   <elementGuidId>3a798d80-b194-41ce-aed9-284a7779ec51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alert-modal']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d05c62cf-cfba-4936-a63b-b7e5e877c8d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-text</value>
+      <webElementGuid>d92ffcd6-cd51-401d-80bf-e00868b09b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El correo electrónico o la contraseña son incorrectas. Vuelve a intentarlo.</value>
+      <webElementGuid>3e28933a-b05c-408f-802a-457b66b47325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-fluid&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;alert alert-error&quot;]/div[@class=&quot;alert-text&quot;]</value>
+      <webElementGuid>82e69be2-9ce0-4800-aeb0-bc32aba5d645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert-modal']/div/div/div/div</value>
+      <webElementGuid>de5aac03-7c8d-409d-8ee0-84f286321f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compra segura'])[1]/following::div[6]</value>
+      <webElementGuid>8d21e3f6-f2fb-4177-8e5c-647d1f86c294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar'])[1]/preceding::div[1]</value>
+      <webElementGuid>946ac02e-545f-4869-aa09-a1574ea90c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar Sesión'])[1]/preceding::div[1]</value>
+      <webElementGuid>0121f8e4-e588-414a-b43e-617d72cf4c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El correo electrónico o la contraseña son incorrectas. Vuelve a intentarlo.']/parent::*</value>
+      <webElementGuid>99bd1d27-c2fe-4fb1-b298-364f22c74bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>7bbbd8bc-0cea-4007-8143-3108e54fc821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'El correo electrónico o la contraseña son incorrectas. Vuelve a intentarlo.' or . = 'El correo electrónico o la contraseña son incorrectas. Vuelve a intentarlo.')]</value>
+      <webElementGuid>2b1b8172-7fce-40c2-828b-076829a5ff0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

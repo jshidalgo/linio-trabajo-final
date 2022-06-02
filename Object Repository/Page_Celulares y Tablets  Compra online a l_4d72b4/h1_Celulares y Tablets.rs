@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Celulares y Tablets</name>
+   <tag></tag>
+   <elementGuidId>b38a13f8-d5bb-4d19-b860-65b1f87c88a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.catalogue-title.section-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='catalogue-list-container']/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>389d5cac-f1ed-46da-88d2-d3303985f034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catalogue-title section-title</value>
+      <webElementGuid>918ad970-1737-486a-9f27-e5036e3ccb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>.catalogue-list</value>
+      <webElementGuid>32c7d030-fc10-44f8-9780-54661bcb2f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Celulares y Tablets </value>
+      <webElementGuid>bb631332-b414-4e70-8d54-618a169b6962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;catalogue-list-container&quot;)/h1[@class=&quot;catalogue-title section-title&quot;]</value>
+      <webElementGuid>8b0daa56-ed07-4175-9cc9-473f37fb87f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='catalogue-list-container']/h1</value>
+      <webElementGuid>7be452c1-f133-4b6a-8823-3bc92972cf74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más accesorios para celulares'])[1]/following::h1[1]</value>
+      <webElementGuid>db2d75d7-43e0-414d-86e8-a4b9a70e3ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celulares y Tablets'])[1]/following::h1[1]</value>
+      <webElementGuid>79f49631-c85b-4fbf-aa64-76f8aeafea02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vistas'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e070150e-4140-4a28-99c1-87c10ccc818c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e4c4c236-d998-4fa0-a9d3-f9b9105efcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>0438a322-31b1-47c7-98b2-0e0810603088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' Celulares y Tablets ' or . = ' Celulares y Tablets ')]</value>
+      <webElementGuid>7ae1cab7-1c8a-4ec4-acea-1fb425c11f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

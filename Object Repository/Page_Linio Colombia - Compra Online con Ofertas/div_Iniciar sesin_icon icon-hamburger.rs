@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Iniciar sesin_icon icon-hamburger</name>
+   <tag></tag>
+   <elementGuidId>223adbe6-2e1f-4487-882d-9afbf41f3783</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon.icon-hamburger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='open-left-menu']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c30194b-eec4-429c-b81b-d153a3f5466c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-hamburger</value>
+      <webElementGuid>5d05fbc9-a4d4-49b0-a252-67fdc3126b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;open-left-menu&quot;)/div[@class=&quot;icon icon-hamburger&quot;]</value>
+      <webElementGuid>830c16ff-82ed-44ac-93b2-43f1ef9f3106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='open-left-menu']/div</value>
+      <webElementGuid>127105ac-c2da-45f5-92ab-f884783f8f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>596102d0-ca15-4e30-afd0-885eebcb8e0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

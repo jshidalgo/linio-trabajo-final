@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sguenos_dy-lb-close</name>
+   <tag></tag>
+   <elementGuidId>e099cac5-e8fc-4039-b088-6e5fc4694e80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dy-lb-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bff17ab2-33c5-47ae-953a-efbbff674305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dy-lb-close</value>
+      <webElementGuid>fbada2ec-5b8d-4973-834a-8a177cd827af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;dy-modal-container dy-act-overlay&quot;]/div[@class=&quot;dy-modal-wrapper&quot;]/div[@class=&quot;dy-modal-contents&quot;]/div[@class=&quot;dy-lb-close&quot;]</value>
+      <webElementGuid>efd11140-c76c-4f5b-a495-f312ac5e1dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div</value>
+      <webElementGuid>a3c5182c-9239-4dce-83ea-462cffafe0f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

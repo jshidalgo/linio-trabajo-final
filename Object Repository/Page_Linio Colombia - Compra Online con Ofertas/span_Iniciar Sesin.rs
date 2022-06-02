@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Iniciar Sesin</name>
+   <tag></tag>
+   <elementGuidId>228875d0-8c96-409b-9573-1c455ce4c34a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navbar']/div/div[4]/div[2]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de117b64-7000-49c1-a408-99dd195cf418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b5b30025-3709-4e85-8263-82b1078fabf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>d77f406e-7234-4232-a6eb-d17fa6189ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;container-fluid container-semi-fluid header-new&quot;]/div[@class=&quot;area-profile row&quot;]/div[@class=&quot;profile-section&quot;]/a[@class=&quot;profile-customer d-none d-md-flex active&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>2c4a7f75-88d2-4a4d-a753-c35de11eef80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar']/div/div[4]/div[2]/a/span[2]</value>
+      <webElementGuid>03a74dec-4700-48b8-a373-2364fe3f96b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis pedidos'])[1]/preceding::span[2]</value>
+      <webElementGuid>abf22498-326a-4269-bb58-bf504770b704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carrito'])[1]/preceding::span[4]</value>
+      <webElementGuid>f700061f-2b6c-4a6c-b20a-0e469e441f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iniciar Sesión']/parent::*</value>
+      <webElementGuid>a0d233ed-9c26-46d4-9d3f-a7ff845150ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b176f1ea-3d6f-4282-87f3-bca869712246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Iniciar Sesión' or . = 'Iniciar Sesión')]</value>
+      <webElementGuid>77fc8543-aa54-4feb-a424-4156c9921f66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

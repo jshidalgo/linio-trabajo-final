@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Iniciar sesin_icon icon-inverse icon-search</name>
+   <tag></tag>
+   <elementGuidId>fe254c48-e022-4d67-9758-223221ca1429</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-inverse.icon-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navbar']/div/div[3]/div[2]/form/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29f73961-a3ca-47b6-a3a9-4bcef51bc002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a807c658-cc88-4ba4-877b-23156e675302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-inverse icon-search</value>
+      <webElementGuid>040aede6-548c-4c1b-9cb6-27bcf1e9669b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;container-fluid container-semi-fluid header-new&quot;]/div[@class=&quot;area-search&quot;]/div[@class=&quot;search hidden-sm-down&quot;]/form[1]/div[@class=&quot;input-group-search&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-primary btn-search&quot;]/span[@class=&quot;icon icon-inverse icon-search&quot;]</value>
+      <webElementGuid>4f4518b4-6968-433a-a17e-8adfa42e5202</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar']/div/div[3]/div[2]/form/div/div/div/button/span</value>
+      <webElementGuid>650a4b4d-0c5b-43ee-97e4-b3695cf38f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span</value>
+      <webElementGuid>81f0f4d0-1e2b-4e77-9ba4-21423844b111</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

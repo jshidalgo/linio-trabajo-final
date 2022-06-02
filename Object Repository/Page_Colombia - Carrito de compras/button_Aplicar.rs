@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aplicar</name>
+   <tag></tag>
+   <elementGuidId>fc258475-c88d-4c1b-bd8b-a49f6b9770da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>coupon-form > div > button.btn.btn-sm.btn-outline-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar cupón'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9feea58-9090-4d1d-b08d-db5d5d31166f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-outline-primary</value>
+      <webElementGuid>1ae4288c-ffef-4aef-b7b1-f0ef413f8f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>coupon.apply()</value>
+      <webElementGuid>0a75eea3-cfbe-4ecf-bf84-7b182c68a2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aplicar</value>
+      <webElementGuid>cb95dc55-adae-406e-bb04-ffd215dc3061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper wrapper-no-footer container-fluid&quot;]/main[@class=&quot;container-fluid container-semi-fluid&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;cart-summary-section col-xl-3 col-lg-3 col-md-12 col-12&quot;]/div[@class=&quot;summary-container&quot;]/ul[@class=&quot;summary&quot;]/li[@class=&quot;summary-coupon&quot;]/coupon-form[1]/div[1]/button[@class=&quot;btn btn-sm btn-outline-primary&quot;]</value>
+      <webElementGuid>3d689bd0-6d2d-4e13-b965-89cc9e1033cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar cupón'])[1]/following::button[1]</value>
+      <webElementGuid>468981ef-602c-4898-a454-669883d6203e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calcular'])[1]/following::button[1]</value>
+      <webElementGuid>17a8c8d2-f933-4f55-8fd2-59630afdb941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::button[1]</value>
+      <webElementGuid>ebc4a09d-1a4f-4f13-b4bf-ea1d4c5ba997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remover cupón'])[1]/preceding::button[1]</value>
+      <webElementGuid>f44b8b2d-84d0-49d5-a183-5b383af225b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aplicar']/parent::*</value>
+      <webElementGuid>ff557840-0768-466a-8e20-ff3af7866f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coupon-form/div/button</value>
+      <webElementGuid>0b47f131-c977-4de8-b94d-2e948880271f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Aplicar' or . = 'Aplicar')]</value>
+      <webElementGuid>540bd83b-839b-4375-b5dd-979309225094</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

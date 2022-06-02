@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El usuario en el momento de procesar su compra puede aplicar un cupón a través de la opción “Aplicar cupón” debe de diligenciar el código del cupón y seguido dar clic en el botón que se habilita 
+“Aplicar”, si el código del cupón es inválido se muestra un popup con el mensaje cupón invalido.</description>
+   <name>Aplicar cupón a la compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>923fe7ae-ca57-4c35-a3be-69fc8e5d06bd</testCaseGuid>
+</TestCaseEntity>
