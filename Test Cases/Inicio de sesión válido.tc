@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verificación y validación del inicio de sesión de un usuario existente en la plataforma</description>
-   <name>Inicio de sesión válido</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>73ef7e90-4b1e-4865-b097-ef406e6dcbfb</testCaseGuid>
-</TestCaseEntity>

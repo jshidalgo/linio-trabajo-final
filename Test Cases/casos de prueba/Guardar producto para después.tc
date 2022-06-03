@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El objetivo de este caso de uso es permitir al usuario guardar un producto del carrito de compras en la sección de “GUARDADOS PARA DESPUÉS” del carrito de compras</description>
+   <name>Guardar producto para después</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>720e037e-69d3-4984-9ab1-94339569abbc</testCaseGuid>
+</TestCaseEntity>

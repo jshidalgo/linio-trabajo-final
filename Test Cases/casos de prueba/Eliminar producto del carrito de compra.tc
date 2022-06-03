@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El objetivo de este caso de prueba es permitir al usuario eliminar un producto del carrito de compras</description>
+   <name>Eliminar producto del carrito de compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c43d6aba-4374-4b4d-bff9-fdfd33e2cd1e</testCaseGuid>
+</TestCaseEntity>

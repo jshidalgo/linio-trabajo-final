@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>El usuario podrá escribir en la barra de búsqueda el nombre del producto que desea buscar y dar clic en el botón de la lupa que le desplegara una serie de productos correspondientes al filtro aplicado.</description>
-   <name>Búsqueda de producto mediante la barra de búsqueda</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>df9d8c82-1aa9-48a3-89e2-ee78d78eeb61</testCaseGuid>
-</TestCaseEntity>

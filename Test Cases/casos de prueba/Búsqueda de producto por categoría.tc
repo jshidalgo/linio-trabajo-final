@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El usuario podrá dar clic en el menú principal donde se le despliega un submenú con todas las categorías disponibles, al dar clic en la categoría deseada se redirecciona a la pagina con todos los productos de la categoría seleccionada.</description>
+   <name>Búsqueda de producto por categoría</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81e94ebe-a8e8-4c15-b246-df398ca65dfb</testCaseGuid>
+</TestCaseEntity>
