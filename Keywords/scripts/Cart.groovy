@@ -61,9 +61,9 @@ public class Cart {
 		WebUI.click(findTestObject('Object Repository/Page_Colombia - Carrito de compras/a_Guardar para despus'))
 
 		WebUI.scrollToElement(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_later_product_title'),0)
-					
+
 		WebUI.delay(3)
-		
+
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_later_product_title'),
 				producto_title)
 
@@ -101,6 +101,13 @@ public class Cart {
 		assert cart_current_amount == getTotalCartAmount()
 	}
 
+	/**
+	 * Permite verificar el envio gratis para una ciudad
+	 * @param department
+	 * @param city
+	 * @return
+	 */
+	@Keyword
 	def calculateFreeShipping(String department, String city) {
 		WebUI.click(findTestObject('Object Repository/Page_Colombia - Carrito de compras/a_Calcular envo'))
 

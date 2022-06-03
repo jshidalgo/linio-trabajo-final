@@ -104,4 +104,28 @@ class Utils {
 	def private closeSubscribeModal() {
 		WebUI.click(findTestObject('Object Repository/Page_Linio Colombia - Compra Online con Ofertas/subscribe_modal_close_btn'))
 	}
+
+	/**
+	 * Permite tomar una captura de pantalla
+	 * @param file_name - nombre del archivo
+	 * @param folder - ubicacion de la captura
+	 * @return
+	 */
+	def takeScreenshot(String file_name, String folder) {
+		String temp = 'Tests Screenshots/' + folder + '/' + file_name +'.png'
+		WebUI.takeScreenshot(temp)
+	}
+	
+	/**
+	 * Permite obtener el nombre de una carpeta con la fecha y hora 
+	 * @param name - nombre de la capeta
+	 * @return
+	 */
+	def getFolderName(String name) {
+		Date date = new Date()
+		String datePart = date.format("yyyy-MM-dd")
+		String timePart = date.format("HH-mm-ss")
+		
+		return name+ '_' + datePart + '_' + timePart
+	}
 }

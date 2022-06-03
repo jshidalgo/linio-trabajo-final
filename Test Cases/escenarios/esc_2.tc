@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto por categoría sin estar logueado.</description>
+   <name>esc_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdc99617-d1cb-40d4-b13e-8162833bb960</testCaseGuid>
+</TestCaseEntity>

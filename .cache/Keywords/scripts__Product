@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "765F09911759710841ACF3BB925DEE28",
+  "keywordFileContentHash": "E3BCE0483A2AF8FDEA7B973447F61DDF",
   "keywordClasses": [
     {
       "name": "scripts.Product",
@@ -21,6 +21,10 @@
               }
             }
           ]
+        },
+        {
+          "name": "addToCartUnverifiedTitle",
+          "parameters": []
         }
       ]
     }

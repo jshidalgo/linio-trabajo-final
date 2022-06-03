@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto por la barra de búsqueda, seleccionar los productos y agregarlos al carrito de compra, ir al carrito de compras y luego eliminar uno de ellos.</description>
+   <name>esc_8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd43eae9-15d6-471f-97f2-029501a1e885</testCaseGuid>
+</TestCaseEntity>

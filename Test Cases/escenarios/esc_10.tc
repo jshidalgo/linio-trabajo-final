@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto por la barra de búsqueda, seleccionar los productos y agregarlos al carrito de compra, ir al carrito de compras y aplicar cupón invalido.</description>
+   <name>esc_10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e18ec297-9979-4926-8a4f-ae4f5927684d</testCaseGuid>
+</TestCaseEntity>

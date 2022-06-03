@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto por categoría con usuario logueado.</description>
+   <name>esc_4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b97b327d-2fb3-4536-963b-06dc300a4caf</testCaseGuid>
+</TestCaseEntity>

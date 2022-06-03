@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "B23E6516774F66D814B29B8CBCC4C1D5",
+  "keywordFileContentHash": "A44BE5279B4B29110E73EB9446A61454",
   "keywordClasses": [
     {
       "name": "scripts.Search",
@@ -33,8 +33,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\r\n\t * Permite realiza la busqueda de un producto por la barra de busqueda de la pagina\r\n\t * la validacion se realiza en la primera pagina de resultados\r\n\t * @param search_text - texto de busqueda\r\n\t * @param product_title - texto completo del nombre del producto (con este texto se realiza la validacion de la busqueda)\r\n\t * @return\r\n\t */"
+          ]
         },
         {
           "name": "searchByCategory",
@@ -65,8 +64,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\r\n\t * Permite verificar que haya una navegacion correcta hacia una categoria\r\n\t * @param categorie\r\n\t * @param expected_title\r\n\t * @return\r\n\t */"
+          ]
         },
         {
           "name": "isProductPresent",
@@ -84,11 +82,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\r\n\t * Pemite verificar su un producto esta en la lista de productos\r\n\t * @param product_title - texto completo del nombre del producto (con este texto se realiza la validacion de la busqueda)\r\n\t * @return\r\n\t */"
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

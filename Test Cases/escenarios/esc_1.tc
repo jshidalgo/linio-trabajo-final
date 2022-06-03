@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto mediante la barra de búsqueda sin estar logueado</description>
+   <name>esc_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e86bf3c9-23f7-4f32-9e32-a8efd2b4d719</testCaseGuid>
+</TestCaseEntity>

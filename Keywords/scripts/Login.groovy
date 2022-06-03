@@ -71,8 +71,6 @@ public class Login {
 
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Compra Online los mejores productos al_df3ae1/div_El correo electrnico o la contrasea son_330e50'),
 				'El correo electrónico o la contraseña son incorrectas. Vuelve a intentarlo.')
-
-		WebUI.click(findTestObject('Object Repository/Page_Compra Online los mejores productos al_df3ae1/button_Cerrar'))
 	}
 
 	/**

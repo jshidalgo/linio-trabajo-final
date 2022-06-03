@@ -1,18 +1,16 @@
 {
-  "keywordFileContentHash": "E116E439971D489BC4B654A7152E5AA1",
+  "keywordFileContentHash": "1DC926635EA3C23BB12E19BE6293B136",
   "keywordClasses": [
     {
       "name": "scripts.Cart",
       "keywordMethods": [
         {
           "name": "removeFisrtProduct",
-          "parameters": [],
-          "javadoc": "/**\r\n\t * Permite eliminar el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
+          "parameters": []
         },
         {
           "name": "saveFirstProductForLater",
-          "parameters": [],
-          "javadoc": "/**\r\n\t * Permite guardar para despues el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
+          "parameters": []
         },
         {
           "name": "applyInvalidCoupon",
@@ -30,11 +28,41 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\r\n\t * Permite verificar que un cupon invalido no es aplicado\r\n\t * @param invalid_cupon\r\n\t * @return\r\n\t */"
+          ]
+        },
+        {
+          "name": "calculateFreeShipping",
+          "parameters": [
+            {
+              "name": "department",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "city",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar producto por la barra de búsqueda, seleccionar los productos y agregarlos al carrito de compra, ir al carrito de compras y calcular el valor del envio</description>
+   <name>esc_11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2323b2b4-422b-4470-834b-817a2d8253ee</testCaseGuid>
+</TestCaseEntity>

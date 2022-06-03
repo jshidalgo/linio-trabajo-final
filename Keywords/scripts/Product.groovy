@@ -21,7 +21,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class Product {
-	
+
 	/**
 	 * Permite agregar un producto al carrito de compras
 	 * se espera estar en la detalle del producto
@@ -31,16 +31,27 @@ public class Product {
 	@Keyword
 	def addToCart(String product_name) {
 		WebUI.waitForPageLoad(40)
-		
+
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Linio Colombia - Compra Online con Ofertas/product_detail_title'), product_name)
+
+		addToCartUnverifiedTitle()
+	}
+	
+	/**
+	 * Permite agregar un producto al carrito de compras sin verificar el titulo del producto
+	 * se espera estar en la detalle del producto
+	 * @param product_name - nombre completo del producto
+	 * @return
+	 */
+	@Keyword
+	def addToCartUnverifiedTitle() {
 		
 		WebUI.click(findTestObject('Object Repository/Page_Celular Apple iPhone 13 128gb 4gb A15 _b1f679/button_Aadir al carrito'))
-		
+
 		WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Celular Apple iPhone 13 128gb 4gb A15 _b1f679/div_Tu producto se agreg al carrito        _eccef0'),
-			0)
-		
+				0)
+
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Celular Apple iPhone 13 128gb 4gb A15 _b1f679/h2_Tu producto se agreg al carrito'),
-			'Tu producto se agregó al carrito')
-		
+				'Tu producto se agregó al carrito')
 	}
 }

@@ -16,10 +16,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='display-zoom']/div/h1/span</value>
+         <value>//div[@class='product-name']/div/h1/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1e133748-9ba6-493c-8942-57027e272e62</webElementGuid>
+      <webElementGuid>8687d108-5e6e-45ee-ab16-66a899e47b58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>itemprop</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>fdd78550-7c4c-4199-8734-9add6d0092eb</webElementGuid>
+      <webElementGuid>c93a7374-eccc-4dfc-971f-e291f8a6e845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>product-name</value>
-      <webElementGuid>10da9c84-6dde-4d46-ac9a-69a8096aad7c</webElementGuid>
+      <webElementGuid>6999c837-3c79-435d-b20c-bd8f7c63fe3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Portátil LENOVO V15 IGL INTEL CELERON N4020 8GB 256GB SSD 15,6 HD FREEDOS</value>
-      <webElementGuid>2c82de77-1954-4ab9-8473-b89d64c47cd4</webElementGuid>
+      <webElementGuid>ca9182ac-74e0-4c84-ae1b-e1909a93dd76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;display-zoom&quot;)/div[@class=&quot;product-title&quot;]/h1[@class=&quot;col-12 product-title-box&quot;]/span[@class=&quot;product-name&quot;]</value>
-      <webElementGuid>03c2cd49-8ff2-4d49-a4d8-034aaf52a988</webElementGuid>
+      <webElementGuid>b62df086-c489-4b83-b8e7-38fafdb5026d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='display-zoom']/div/h1/span</value>
-      <webElementGuid>cc076ba9-4870-4b31-b420-a7af1917a5ca</webElementGuid>
+      <webElementGuid>2d8f4c2a-ed1e-450a-acfd-f905255662f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Portátil LENOVO V15 IGL INTEL CELERON N4020 8GB 256GB SSD 15,6 HD FREEDOS'])[1]/following::span[2]</value>
-      <webElementGuid>08570cb8-954a-4430-91c6-6dc2c68f52db</webElementGuid>
+      <webElementGuid>8d670310-4a29-47df-bae6-6ccc906e6d91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops'])[1]/following::span[3]</value>
-      <webElementGuid>7edda807-b0ef-4375-954f-2c0c1a1d7ad5</webElementGuid>
+      <webElementGuid>eb28e561-90cf-4eeb-bbb8-ff3f7c94aba7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo'])[7]/preceding::span[1]</value>
-      <webElementGuid>cadf478e-19e1-439d-a87e-8083f1296484</webElementGuid>
+      <webElementGuid>dfb305e9-cbe4-442b-8dc4-541d801b3e8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1/span</value>
-      <webElementGuid>824f2ab6-c4e2-4c64-83a4-2d746e77847f</webElementGuid>
+      <webElementGuid>6c602bc5-9b67-472f-8a17-67272bc3ad1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Portátil LENOVO V15 IGL INTEL CELERON N4020 8GB 256GB SSD 15,6 HD FREEDOS' or . = 'Portátil LENOVO V15 IGL INTEL CELERON N4020 8GB 256GB SSD 15,6 HD FREEDOS')]</value>
-      <webElementGuid>0161a2ef-bee2-48d3-809f-087ad539f3c1</webElementGuid>
+      <webElementGuid>a731c37c-5fb3-478e-a170-21a70a243db1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

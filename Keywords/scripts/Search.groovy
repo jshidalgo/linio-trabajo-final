@@ -50,7 +50,6 @@ public class Search {
 	def searchByCategory(String categorie, String expected_title) {
 		WebUI.mouseOver(findTestObject('Object Repository/Page_Linio Colombia - Compra Online con Ofertas/div_Iniciar sesin_icon icon-hamburger'))
 
-		////div[@id='main-menu']//span[(text() = 'Belleza' )]
 		//instancia del objeto
 		TestObject tObj = new TestObject()
 		//se busca el objeto por su xpath donde es ubicado por su nombre completo
