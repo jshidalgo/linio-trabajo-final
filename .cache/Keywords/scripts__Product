@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "765F09911759710841ACF3BB925DEE28",
+  "keywordClasses": [
+    {
+      "name": "scripts.Product",
+      "keywordMethods": [
+        {
+          "name": "addToCart",
+          "parameters": [
+            {
+              "name": "product_name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

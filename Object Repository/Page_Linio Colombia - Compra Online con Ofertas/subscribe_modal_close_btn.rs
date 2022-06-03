@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>subscribe_modal_close_btn</name>
+   <tag></tag>
+   <elementGuidId>965e941c-83db-4ae4-8282-9ba0d030f813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dy-lb-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91553bd2-c3e5-489a-b8d4-2a980d2539c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dy-lb-close</value>
+      <webElementGuid>6c37f3de-3d10-4cf8-904b-3766fc8ee536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;dy-modal-container dy-act-overlay&quot;]/div[@class=&quot;dy-modal-wrapper&quot;]/div[@class=&quot;dy-modal-contents&quot;]/div[@class=&quot;dy-lb-close&quot;]</value>
+      <webElementGuid>45bd86d3-b28c-4500-9996-e0f0e94318cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div</value>
+      <webElementGuid>ced6e4b6-74e1-4de7-9a12-3397bfcf75c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

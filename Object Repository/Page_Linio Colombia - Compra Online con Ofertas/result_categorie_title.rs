@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>result_categorie_title</name>
+   <tag></tag>
+   <elementGuidId>2e09428f-d431-4775-a33f-d48de3f2e6f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.catalogue-title.section-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='catalogue-list-container']/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>4b1eaba8-6f61-487a-878f-f798c116c7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catalogue-title section-title</value>
+      <webElementGuid>2f9db552-165f-41e9-85f4-32ed39df6ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-collapse</name>
+      <type>Main</type>
+      <value>.catalogue-list</value>
+      <webElementGuid>51a93d7c-1130-4277-ab86-cff83373d8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Computación </value>
+      <webElementGuid>2bccb7c3-9c33-45d3-a676-460b1cb9f4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;catalogue-list-container&quot;)/h1[@class=&quot;catalogue-title section-title&quot;]</value>
+      <webElementGuid>652177e8-7e4f-4718-af61-8bdad48aea41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='catalogue-list-container']/h1</value>
+      <webElementGuid>c74cd18e-fc13-40b9-a3c5-99b707e821d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computación'])[6]/following::h1[1]</value>
+      <webElementGuid>92dfc7cc-64ab-4df5-8101-470c23e42cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/following::h1[1]</value>
+      <webElementGuid>8727c145-afea-450f-a56e-29d89382db65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vistas'])[1]/preceding::h1[1]</value>
+      <webElementGuid>cd2f4fb8-ba84-4044-8242-65e440aa696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c841b55f-38d0-4a4c-bee0-455b0866b3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>53ebc85a-c85e-4f98-b6bf-e1406a381eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' Computación ' or . = ' Computación ')]</value>
+      <webElementGuid>422bc85e-9924-475b-85f9-281440c69134</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

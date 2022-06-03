@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>left_categories_list</name>
+   <tag></tag>
+   <elementGuidId>14bec577-11f7-4fc7-b50a-6796546cc9dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-menu']/nav/ul/li/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>84c2c30c-f814-4c54-8518-23ce7fc925a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text</value>
+      <webElementGuid>e3152ac1-2510-4fdf-af08-fdb4d0524118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solo Hoy</value>
+      <webElementGuid>a4388107-39f6-47a2-a7f1-18ff0521ba85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/nav[@class=&quot;main-menu col-md-3&quot;]/ul[@class=&quot;nav nav-pills nav-stacked flex-column menu&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link active&quot;]/span[@class=&quot;label-text&quot;]</value>
+      <webElementGuid>460d1ca7-9993-48f3-a036-1b449211cf9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-menu']/nav/ul/li/a/span[2]</value>
+      <webElementGuid>3a4c22c2-2017-4577-9fc5-a6ae1c3c5dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::span[1]</value>
+      <webElementGuid>5872388a-76f1-4a02-a9a6-67e1f11670ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carrito'])[1]/following::span[3]</value>
+      <webElementGuid>c39d0ae4-1bf9-434c-8a74-6105dec25025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::span[1]</value>
+      <webElementGuid>0e49fdbd-187a-4ab6-9e60-b53a01bc3d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas Oficiales'])[1]/preceding::span[2]</value>
+      <webElementGuid>9bcbbfd4-73ea-415d-b48a-772aa6e2b739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solo Hoy']/parent::*</value>
+      <webElementGuid>49df4ea2-8d34-4dc0-9f69-8d81dd1d4cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span[2]</value>
+      <webElementGuid>0bf6bbf1-35e6-48e2-91d7-1a8b6c8782e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Solo Hoy' or . = 'Solo Hoy')]</value>
+      <webElementGuid>6a5bcb11-cb62-4e42-afcb-87ff4904aba2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "41AB0C8151EA8CD6FE4C24DD18147A6E",
+  "keywordClasses": [
+    {
+      "name": "scripts.Cart",
+      "keywordMethods": [
+        {
+          "name": "removeFisrtProduct",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite eliminar el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "saveFirstProductForLater",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite guardar para despues el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "applyInvalidCoupon",
+          "parameters": [
+            {
+              "name": "invalid_cupon",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Permite verificar que un cupon invalido no es aplicado\r\n\t * @param invalid_cupon\r\n\t * @return\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

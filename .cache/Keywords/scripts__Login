@@ -1,0 +1,53 @@
+{
+  "keywordFileContentHash": "3E8072595485F2B0BE49CC41BAC8F920",
+  "keywordClasses": [
+    {
+      "name": "scripts.Login",
+      "keywordMethods": [
+        {
+          "name": "successfulLogin",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite realizar un inicio de sesion valido \r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "invalidLogin",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Permite verifica un intento de inicio de sesion con usaurio correcto y clave invalida\r\n\t * @param user\r\n\t * @param password\r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "veryLoggedUserName",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite verificar que el primer nombre del usuario este presente en la barra superior \r\n\t * @return\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
