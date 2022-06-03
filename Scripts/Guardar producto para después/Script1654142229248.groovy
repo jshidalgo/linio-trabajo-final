@@ -23,10 +23,10 @@ WebUI.callTestCase(findTestCase('Añadir producto al carrito de compra'), [:], F
 WebUI.navigateToUrl('https://www.linio.com.co/cart')
 
 //texto del producto a mover
-cart_producto_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/a_Celular Apple iPhone 13 128gb 4gb A15 Bio_5da33a'))
+cart_producto_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_cart_item_title'))
 
 //precio del producto a eliminar
-product_price_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/div_4.089.900')).substring(1).replace('.','')
+product_price_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_cart_item_price')).substring(1).replace('.','')
 product_price_int = product_price_txt.toInteger()
 
 //precio total en el carrito de compras antes de eliminar el producto
@@ -35,16 +35,15 @@ cart_current_amount_int = cart_current_amount_txt.toInteger()
 
 WebUI.click(findTestObject('Object Repository/Page_Colombia - Carrito de compras/a_Guardar para despus'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/a_Celular Apple iPhone 13 128gb 4gb A15 Bio_5da33a'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_later_product_title'), 
     cart_producto_txt)
 
 //precio total en el carrito de compras
 cart_amount_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/span_4.089.900')).substring(1).replace('.','')
 cart_amount_int = cart_amount_txt.toInteger()
 
-
 //verificar el descuento del producto
-if (product_price_int - cart_current_amount_int == cart_amount_int) {
+if (cart_current_amount_int - product_price_int == cart_amount_int) {
 	assert true
 }else {
 	assert false

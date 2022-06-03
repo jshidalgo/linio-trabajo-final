@@ -34,5 +34,3 @@ WebUI.click(findTestObject('Object Repository/Page_Colombia - Carrito de compras
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/span_Envo gratis'), 'Envío gratis')
 
-WebUI.closeBrowser()
-

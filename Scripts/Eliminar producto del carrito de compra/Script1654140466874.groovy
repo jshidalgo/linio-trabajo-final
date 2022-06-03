@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('Añadir producto al carrito de compra'), [:], F
 WebUI.navigateToUrl('https://www.linio.com.co/cart')
 
 //precio del producto a eliminar
-product_price_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/div_4.089.900')).substring(1).replace('.','')
+product_price_txt = WebUI.getText(findTestObject('Object Repository/Page_Colombia - Carrito de compras/first_cart_item_price')).substring(1).replace('.','')
 product_price_int = product_price_txt.toInteger()
 
 //precio total en el carrito de compras antes de eliminar el producto
@@ -38,7 +38,7 @@ cart_amount_int = cart_amount_txt.toInteger()
 
 
 //verificar el descuento del producto
-if (product_price_int - cart_current_amount_int == cart_amount_int) {
+if (cart_current_amount_int - product_price_int  == cart_amount_int) {
 	assert true
 }else {
 	assert false
