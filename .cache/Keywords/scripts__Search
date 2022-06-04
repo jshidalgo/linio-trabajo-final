@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "A44BE5279B4B29110E73EB9446A61454",
+  "keywordFileContentHash": "BBFE1A2A8444DA8E8397E029B4D9468A",
   "keywordClasses": [
     {
       "name": "scripts.Search",
@@ -11,7 +11,7 @@
               "name": "search_text",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.lang.String",
+                "fullClassName": "String",
                 "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
@@ -24,7 +24,7 @@
               "name": "product_title",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.lang.String",
+                "fullClassName": "String",
                 "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
@@ -42,7 +42,7 @@
               "name": "categorie",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.lang.String",
+                "fullClassName": "String",
                 "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
@@ -55,7 +55,7 @@
               "name": "expected_title",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.lang.String",
+                "fullClassName": "String",
                 "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
@@ -73,7 +73,7 @@
               "name": "product_title",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.lang.String",
+                "fullClassName": "String",
                 "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,

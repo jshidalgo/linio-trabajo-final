@@ -6,11 +6,13 @@
       "keywordMethods": [
         {
           "name": "removeFisrtProduct",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite eliminar el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
         },
         {
           "name": "saveFirstProductForLater",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite guardar para despues el primer producto de un carrito de compras\r\n\t * @return\r\n\t */"
         },
         {
           "name": "applyInvalidCoupon",
@@ -28,7 +30,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Permite verificar que un cupon invalido no es aplicado\r\n\t * @param invalid_cupon\r\n\t * @return\r\n\t */"
         },
         {
           "name": "calculateFreeShipping",
@@ -59,10 +62,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Permite verificar el envio gratis para una ciudad\r\n\t * @param department\r\n\t * @param city\r\n\t * @return\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

@@ -20,14 +20,16 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Permite agregar un producto al carrito de compras\r\n\t * se espera estar en la detalle del producto\r\n\t * @param product_name - nombre completo del producto\r\n\t * @return\r\n\t */"
         },
         {
           "name": "addToCartUnverifiedTitle",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite agregar un producto al carrito de compras sin verificar el titulo del producto\r\n\t * se espera estar en la detalle del producto\r\n\t * @param product_name - nombre completo del producto\r\n\t * @return\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

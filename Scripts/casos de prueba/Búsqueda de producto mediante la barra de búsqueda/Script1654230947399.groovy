@@ -19,6 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'scripts.Utils.openHomaPage'()
 
-CustomKeywords.'scripts.Search.barSearch'('iphone 11', 'iPhone 11 128GB Negro Desbloqueado')
+CustomKeywords.'scripts.Search.barSearch'('iphone 11', 'Iphone 11 Pro 64GB - Gris Espacial Gar')
 
 WebUI.closeBrowser()
+

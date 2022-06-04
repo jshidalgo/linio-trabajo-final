@@ -75,8 +75,9 @@ public class Search {
 		//instancia del objeto
 		TestObject tObj = new TestObject()
 		//se busca el objeto por su xpath donde es ubicado por su nombre completo
-		tObj.addProperty("xpath", ConditionType.EQUALS, "//div[@id='catalogue-product-container']/div/a/div[2]/p/span[(text() = '" + product_title + "')]")
+		tObj.addProperty("xpath", ConditionType.EQUALS, "//div[@id='catalogue-product-container']/div/a/div[2]/p/span[(contains(text() , '" + product_title + "'))]")
 
 		WebUI.verifyElementPresent(tObj, 30)
+//		WebUI.click(tObj)
 	}
 }

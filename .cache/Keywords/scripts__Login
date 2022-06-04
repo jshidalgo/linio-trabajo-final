@@ -6,7 +6,8 @@
       "keywordMethods": [
         {
           "name": "successfulLogin",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite realizar un inicio de sesion valido \r\n\t * @return\r\n\t */"
         },
         {
           "name": "invalidLogin",
@@ -37,14 +38,16 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Permite verifica un intento de inicio de sesion con usaurio correcto y clave invalida\r\n\t * @param user\r\n\t * @param password\r\n\t * @return\r\n\t */"
         },
         {
           "name": "veryLoggedUserName",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Permite verificar que el primer nombre del usuario este presente en la barra superior \r\n\t * @return\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
